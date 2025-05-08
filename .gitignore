@@ -1,1 +1,31 @@
-secure
+secure/
+guilty_pleasures.md
+# unneeded hidden stuff
+.bash_history
+.bash_logout
+.bashrc
+.bashrc.save
+.bashrc.save.1
+.bashrc.save.2
+.bashrc.save.3
+.bootdev.yaml
+.cache/
+.config/
+.gitconfig
+.landscape/
+.lesshst
+.local/
+.motd_shown
+.profile
+.sudo_as_admin_successful
+.vscode-server/
+# unneeded hidden stuff end
+Downloads/
+git
+go
+nano.467.save
+webflyx-local/
+webflyx/
+worldbanc/README.md.save
+worldbanc/contents
+worldbanc/private/bin/worldbanc.sh.save
